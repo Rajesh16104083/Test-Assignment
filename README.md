@@ -18,6 +18,11 @@ Prints the store state after each addition to show the evolution of the playlist
 Ensure that the capacityPerUser is set appropriately based on your application's requirements.
 The program assumes unique song IDs per user but can handle repeated song plays within the playlist.
 
+**Environment**
+Language - Java 
+Editor - Eclipse 
+Repository - GitHub 
+
 **Contributors**
 
 Developed by Rajesh R
