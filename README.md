@@ -22,4 +22,3 @@ The program assumes unique song IDs per user but can handle repeated song plays 
 
 Developed by Rajesh R
 
-Contact: rajeshyadhav3010@gmail.com
